@@ -1,2 +1,3 @@
 # Connect-4
-Python game
+Python game 
+Tools: Wing IDE 101
